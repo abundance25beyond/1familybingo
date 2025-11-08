@@ -1,0 +1,5 @@
+{
+  "name": "Family Bingo Live",
+  "description": "A real-time, multiplayer bingo game designed for families and friends to play together online. A host creates and manages the game, and players join with a unique code to play on their bingo cards.",
+  "requestFramePermissions": []
+}
